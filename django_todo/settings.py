@@ -26,7 +26,8 @@ SECRET_KEY = 'j_b*@cy3z6_+8ryveygjs+wyim-f^6cxfd12nsxk7hc$&ox^rn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-kimpea.c9users.io']
+ALLOWED_HOSTS = ['django-todo-kimpea.c9users.io',
+                'kim-django-todo.herokuapp.com']
 
 
 # Application definition
